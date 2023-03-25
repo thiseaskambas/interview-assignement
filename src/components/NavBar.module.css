@@ -1,0 +1,43 @@
+.navbar {
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #025feb;
+  height: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.navlist {
+  list-style-type: none;
+  height: 25px;
+  display: flex;
+  margin-left: auto;
+  align-items: center;
+  gap: 40px;
+}
+
+.navli {
+  height: 100%;
+}
+
+.link {
+  height: 100%;
+  display: flex;
+  gap: 5px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.logoctn {
+  min-width: 110px;
+}
+
+.logoimg {
+  width: 100%;
+}
+
+.imagelink {
+  height: 100%;
+}
